@@ -1,0 +1,54 @@
+# ==================================
+# NovaCart E-Commerce AI Assistant
+# ==================================
+
+
+# Core Python Environment Management & Web Framework
+
+python-dotenv
+fastapi
+uvicorn
+pydantic
+
+# ---------- Agentic AI / LangChain ----------
+langchain
+langchain-core
+langgraph
+langchain-groq
+
+# ---------- Vector Store & RAG ----------
+langchain-community
+langchain-chroma
+chromadb
+langchain-huggingface
+sentence-transformers
+chromadb
+
+# -------Embeddings / NLP------
+numpy
+tqdm
+
+# ---------- LLM Provider ----------
+groq
+
+# ---------- Frontend ----------
+streamlit
+requests
+pandas
+
+# ---------- Database ----------
+sqlite-utils
+
+# ---------- PDF Handling ----------
+pypdf
+reportlab
+
+
+# ------Authentication / Security-----
+python-jose
+passlib[bcrypt]
+
+#------- Additional dependencies-----
+asyncio-mqtt
+aiohttp
+pydantic

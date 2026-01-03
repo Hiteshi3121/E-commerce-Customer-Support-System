@@ -1,0 +1,62 @@
+
+CASE A: Order ID present but NO intent
+CASE B Intent but missing order ID
+CASE C: Pending intent + order ID now present
+
+Hiteshi user_5246fa : ORD-60022a , ORD-37682e, ORD-4f55cb, ORD-20eb75
+
+find : ORD-2bcaaf.
+
+-----------------------------------------------------------------
+Hi..
+
+1. Place an order of a Milton water bottle
+
+2. I want to track my order (order id)
+
+3. Please return my order (order id)
+
+4. I want to raise a ticket for order/order id as it is not of good quality as expected
+
+--------------------------
+
+5. what is your companies name
+
+6. tell me something about the company history
+
+7. what does your company do
+
+9.## The product is faulty, what can be done?”
+
+11. what kind of products do you have
+
+12. can you tell me the product available for kids
+
+13. which is the expensive product available in your stock
+
+14. tell me about the payment methods
+
+15. how can we verify the authenticity of your products?
+
+16. inform me about your company's account and support
+--------------------------------------------------
+
+8. please give me the current status of my order ORD-4f55cb
+
+9.## The product is faulty, what can be done?”
+
+10. I want to know if it’s possible to send back something I ordered
+
+
+
+
+
+
+User: Place an order of a Milton water bottle
+Bot: ✅ Order placed successfully. Your order ID is ORD-xxxx
+
+User: track my order
+Bot: Please provide your order ID.
+
+User: ORD-xxxx
+Bot: 📦 Your order is currently in transit.
