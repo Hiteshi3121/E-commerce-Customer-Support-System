@@ -347,8 +347,6 @@ This project can be extended into:
 
 ---
 
-## 👤 Author
 
-Built as a **capstone-level Agentic AI Chatbot project** to reflect real-world ecommerce AI systems.
-✅ **NovaCart AI Assistant** — Practical. Structured. Production-minded.
+
 
