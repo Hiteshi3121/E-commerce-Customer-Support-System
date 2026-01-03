@@ -1,3 +1,0 @@
-//For FastAPI:
->> uv run uvicorn backend.main:app --reload
->> streamlit run .\frontend\streamlit_app.py
